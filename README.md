@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-
-#### Contribution languages
-
-[![Contribution languages](https://glj-hello.vercel.app/widgets/contribution-most-used-languages/thumbnail.png)](https://glj-hello.vercel.app/widgets/contribution-most-used-languages)
-
-
-<img style="display: inline-block" width="400" height="209" title="Contribution time distribution" src="https://634750802.vercel.app/widgets/contribution-time-distribution/thumbnail.png">
-
-<img style="display: inline-block" width="400" height="209" title="Currently working on" src="https://634750802.vercel.app/widgets/db%2Fsql-1686650509966/thumbnail.png">
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=12960671" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto&color_scheme=dark" width="504.5" height="auto">
+    <img alt="@634750802's Recent Work - Last 28 days | OSSInsight" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto&color_scheme=light" width="504.5" height="auto">
+  </picture>
+</a>
